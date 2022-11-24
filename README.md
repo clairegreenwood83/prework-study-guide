@@ -8,7 +8,7 @@ This study guide organinses the information students will learn during the bootc
 
 ## Installation
 
-"N/A"
+N/A
 
 ## Usage
 
@@ -16,7 +16,7 @@ This study guide is divided into sections according to the topics learned in the
 
 ## Credits
 
-"N/A"
+N/A
 
 ## License
 
